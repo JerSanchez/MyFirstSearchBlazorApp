@@ -1,5 +1,4 @@
 # MyFirstSearchBlazorApp
 First Blazor Application
 
-Using Clean Architecture 
-Dependency Injection
+Using Clean Architecture and Dependency Injection
